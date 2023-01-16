@@ -35,10 +35,13 @@ Mehmet Emir ERDEM
 - Sahneler
 - Kayıt Alma
 - Ses ve Müzik
+- camera_sc, coin_sc, enemy_sc, Mainmenu_sc, moveobj_sc, music_sc, player_sc, spawn_manager_sc
 
 Melike YOĞURTCU
 - Animasyon
-- 
+- animation_sc
+
+NOT: Bazı scriptlerin entegre bir şekilde çalışması sebebiyle genel olarak scriptlerde herkesin emeği geçmiştir fakat kişilerin ağırlıkları üzerine sınıflandırılmmıştır.
 
 # Oyun Bağlantısı
 https://memirerdem.itch.io/infinite-loop-v2
