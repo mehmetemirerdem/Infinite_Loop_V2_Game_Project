@@ -1,6 +1,10 @@
 # Infinite_Loop_V2_Game_Project
 2022-2023 Game Programming Final Project
 
+# ÜST NOT
+
+Vize için yapılan oyunun üzerine eklentiler yapılmıştır. Bir önceki oyunun devamı niteliğindedir.
+
 # Oynanış
 Düz bir hat üzerinde rastgele konumlarda engeller ve ödüller çıkan sonsuza kadar kadar giden bir platforming oyunu. Karakterin 3 canı var ve kırmızı engellere çarptıkça canı azalmakta. 1 canı kaldığında sahne değişmekte. Eğer aşağıya düşerse ana menüye geri dönmekte. Canları sıfırlandığında yine ana menüye geri dönmekte. User Interface'de can göstergesi kasıtlı olarak belirtilmemiştir. Oyuncunun, oyunun ne zaman biteceğini veya sahnenin değişeceğini bilememesi üzerine bir psikolojik baskı oluşturmak hedeflenmiştir.
 
@@ -35,6 +39,7 @@ Space'e basılı tutarken D'ye de basılırsa sırayla animasyonlar çalışıyo
 Hiç bir şey yapmazken, Loop şeklinde yürüme animasyonu çalışmakta.
 
 # Ekipte Görev Dağılımı
+
 Mehmet Emir ERDEM
 - Ana Menü
 - Sahneler
@@ -46,7 +51,7 @@ Melike YOĞURTCU
 - Animasyon
 - animation_sc
 
-NOT: Bazı scriptlerin entegre bir şekilde çalışması sebebiyle genel olarak scriptlerde herkesin emeği geçmiştir fakat kişilerin ağırlıkları üzerine sınıflandırılmmıştır.
+NOT: Bazı scriptlerin entegre bir şekilde çalışması sebebiyle genel olarak scriptlerde herkesin emeği geçmiştir fakat kişilerin ağırlıkları üzerine sınıflandırılmıştır.
 
 # Oyun Bağlantısı
 https://memirerdem.itch.io/infinite-loop-v2
