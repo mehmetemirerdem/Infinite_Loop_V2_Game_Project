@@ -20,7 +20,7 @@ Düz bir hat üzerinde rastgele konumlarda engeller ve ödüller çıkan sonsuza
 # KAYIT KISMI
 Oyuna ilk başlandığında Continue buttonu pasif bir şekildedir ve görünmez durumdadır. Sadece New Game buttonu aktif ve görünür durumdadır. Oyuncu eğer oyun içerisinde herhangi bir sahnede ana menüye dönmezse oyun kayıt edilmez ve canı 0 olduğunda direkt ana menüye dönüp sadece New Game buttonunu görür. Eğer oyun içerisinde (ana menü hariç) herhangi bir sahnede ana menüye dönülürse, en son bulunan sahneyi kayıt eder ve Continue buttonu aktif olur. En son hangi sahnede kayıt olduysa, Continue buttonuna basıldığında o sahnenin başından oynamaya başlar (1. sahne veya 2. sahne).
 
-Animasyon kısmı yapılırken idle, sniper ve smg stateleri arasında karşılıklı transitionlar kuruldu. Sniper ve smg parametreleri ile birlikte script üzerinden kontrol edilen ve gerekli şartları sağladığı anda stateler arası geçiş gerçekleşti.
+Animasyon kısmı yapılırken idle, sniper ve smg stateleri arasında karşılıklı transitionlar kuruldu. Sniper ve smg parametreleri ile birlikte script üzerinden kontrol edilen ve gerekli şartları sağladığı anda stateler arası geçiş gerçekleşti. Smg ve sniper stateleri arasında transition bulunmasının sebebi sniper animasyonu icra ederken, smg animasyonuna da geçiş yapılabilmesi istendiği içindir.
 
 ![statemachine](https://user-images.githubusercontent.com/76780294/212704855-76d4c0c5-dd16-4783-9eec-31c73217b395.JPG)
 
