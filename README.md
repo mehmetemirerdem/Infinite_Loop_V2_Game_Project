@@ -30,7 +30,15 @@ Space'e basılı tutarken D'ye de basılırsa sırayla animasyonlar çalışıyo
 Hiç bir şey yapmazken, Loop şeklinde yürüme animasyonu çalışmakta.
 
 # Ekipte Görev Dağılımı
-Oyun aynı anda birlikte geliştirilmesi sebebiyle bütün kodlardaki geliştirilen kısımlardaki oransal dağılım eşittir.
+Mehmet Emir ERDEM
+- Ana Menü
+- Sahneler
+- Kayıt Alma
+- Ses ve Müzik
+
+Melike YOĞURTCU
+- Animasyon
+- 
 
 # Oyun Bağlantısı
 https://memirerdem.itch.io/infinite-loop-v2
