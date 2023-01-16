@@ -24,6 +24,9 @@ Animasyon kısmı yapılırken idle, sniper ve smg stateleri arasında karşıl�
 
 ![statemachine](https://user-images.githubusercontent.com/76780294/212704855-76d4c0c5-dd16-4783-9eec-31c73217b395.JPG)
 
+# Ses ve Müzik
+
+Oyunun ilk açıldığı zamandan itibaren bir döngü şeklinde sonsuza kadar müzik çalmakta ve sahne geçişleri arasında müzik kesilmemekte. Ses olarak, karakterimiz zıpladığı an bir ses efekti çalmakta.
 
 # Kontroller
 W -> İleri
