@@ -1,6 +1,9 @@
 # Infinite_Loop_V2_Game_Project
 2022-2023 Game Programming Final Project
 
+# Oyun Bağlantısı
+https://memirerdem.itch.io/infinite-loop-v2
+
 # ÜST NOT
 
 Vize için yapılan oyunun üzerine eklentiler yapılmıştır. Bir önceki oyunun devamı niteliğindedir.
@@ -55,6 +58,3 @@ Melike YOĞURTCU
 - animation_sc, music_sc
 
 NOT: Bazı scriptlerin entegre bir şekilde çalışması sebebiyle genel olarak scriptlerde herkesin emeği geçmiştir fakat kişilerin ağırlıkları üzerine sınıflandırılmıştır.
-
-# Oyun Bağlantısı
-https://memirerdem.itch.io/infinite-loop-v2
