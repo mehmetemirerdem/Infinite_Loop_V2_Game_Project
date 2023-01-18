@@ -48,9 +48,7 @@ Hiç bir şey yapmazken, Loop şeklinde yürüme animasyonu çalışmakta.
 
 Sadece ana menüdeki dinazor animasyonu için hazır asset alınmıştır. Oyunun içerisindeki diğer kısımlarda hazır asset bulunmamaktadır.
 
-Dinazor animasyonu kaynak:
-
-https://opengameart.org/content/pixel-dinosaurs
+Dinazor animasyonu kaynak: https://opengameart.org/content/pixel-dinosaurs
 
 # Ekipte Görev Dağılımı
 
